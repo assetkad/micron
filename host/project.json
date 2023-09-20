@@ -15,7 +15,7 @@
         "main": "host/src/main.ts",
         "polyfills": ["zone.js"],
         "tsConfig": "host/tsconfig.app.json",
-        "assets": ["host/src/favicon.ico", "host/src/assets"],
+        "assets": ["host/src/favicon.ico", "host/src/assets", "host/src/netlify.toml"],
         "styles": ["host/src/styles.scss"],
         "scripts": [],
         "customWebpackConfig": {
